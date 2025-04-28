@@ -1,3 +1,3 @@
 # paper-grading-system
 
-this is a simole project i made on paper checking system 
+This is a simple project I made on a paper checking system 
